@@ -1,0 +1,2 @@
+# Camera_Segmenation_for_robust_AI
+Samsung2023 AI Challenge Solution
