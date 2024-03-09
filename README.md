@@ -34,4 +34,12 @@ We train and evaluate our model using the dataset from [SAMSUNG2023 AI CHALLENGE
 we assume that you have downloaded it and placed based on File Structure.
 
 ## How to Use
-## 
+### 1. Transform Data
+```
+$ jupyternotebook fish_transform.ipynb
+```
+### 2. Train
+```
+$ jupyternotebook mask3former.ipynb
+```
+
